@@ -10,3 +10,9 @@
     "phpunit/phpunit": "9.*"
   }
 ```
+## run & debug
+### install Xdebug
+#### install Xdebug on mac
+```
+pecl install xdebug
+```
